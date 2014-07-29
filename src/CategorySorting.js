@@ -14,7 +14,7 @@
 var $pages;
 function getHtmlForItemWithLink ( page ){
 	return '<li><a href="' +
-		mw.util.wikiGetlink( page ) +
+		mw.util.getUrl( page ) +
 		'" title="' + page +
 		'">' + page + '</a></li>';
 }

@@ -1,6 +1,7 @@
 /**
  * Sort category by titles
- * @author: [[User:Helder.wiki]]
+ * @author: Helder (https://github.com/he7d3r)
+ * @license: CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>
  * Inspired by
  * - [[w:WP:Esplanada/propostas/Categorização de pessoas lusófonas (24fev2013)]]
  * - [https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=blob;f=includes/CategoryViewer.php;h=7678ffe080c4a2635926731a7ba6803cd622ca6a;hb=HEAD#l464]

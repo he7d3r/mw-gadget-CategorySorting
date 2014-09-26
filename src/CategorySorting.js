@@ -6,8 +6,6 @@
  * - [[w:WP:Esplanada/propostas/Categorização de pessoas lusófonas (24fev2013)]]
  * - [https://gerrit.wikimedia.org/r/gitweb?p=mediawiki/core.git;a=blob;f=includes/CategoryViewer.php;h=7678ffe080c4a2635926731a7ba6803cd622ca6a;hb=HEAD#l464]
  */
-/*jslint browser: true, white: true, plusplus: true, todo: true, devel: true */
-/*global jQuery, mediaWiki */
 ( function ( mw, $ ) {
 'use strict';
 
